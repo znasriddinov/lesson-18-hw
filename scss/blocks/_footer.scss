@@ -1,0 +1,13 @@
+@media (min-width: 1280px) {
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 63px 0;
+
+    & .logos {
+      display: flex;
+      align-items: center;
+      gap: 27px;
+    }
+  }
+}
